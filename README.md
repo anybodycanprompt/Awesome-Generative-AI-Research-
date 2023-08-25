@@ -61,3 +61,27 @@
 | July 24-July 30| Unveiling Security, Privacy, and Ethical Concerns of ChatGPT | [Link](https://arxiv.org/pdf/2307.14192.pdf) |
 | July 24-July 30| A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models | [Link](https://arxiv.org/pdf/2307.12980.pdf) |
 | July 24-July 30| 3D-LLM: Injecting the 3D World into Large Language Models | [Link](https://arxiv.org/pdf/2307.12981.pdf) |
+| July 31-Aug 6 | OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models | [Link](https://arxiv.org/pdf/2308.01390.pdf) |
+| July 31-Aug 6 | Fighting Fire with Fire: Can ChatGPT Detect AI-generated Text? | [Link](https://arxiv.org/pdf/2308.01284.pdf) |
+| July 31-Aug 6 | XSTEST: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models | [Link](https://arxiv.org/pdf/2308.01263.pdf) |
+| July 31-Aug 6 | LLMs Understand Glass-Box Models, Discover Surprises, and Suggest Repairs | [Link](https://arxiv.org/pdf/2308.01157.pdf) |
+| July 31-Aug 6 | SELFCHECK: USING LLMS TO ZERO-SHOT CHECK THEIR OWN STEP-BY-STEP REASONING | [Link](https://arxiv.org/pdf/2308.00436.pdf) |
+| July 31-Aug 6 | HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution | [Link](https://arxiv.org/pdf/2307.16883.pdf) |
+| July 31-Aug 6 | Does fine-tuning GPT-3 with the OpenAI API leak personally-identifiable information? | [Link](https://arxiv.org/pdf/2307.16382.pdf) |
+| July 31-Aug 6 | Making Metadata More FAIR Using Large Language Models | [Link](https://arxiv.org/pdf/2307.13085.pdf) |
+| Aug 7-Aug 13  | METAGPT: META PROGRAMMING FOR MULTI-AGENT COLLABORATIVE FRAMEWORK | [Link](https://arxiv.org/pdf/2308.00352.pdf) |
+| Aug 7-Aug 13  | Metacognitive Prompting Improves Understanding in Large Language Models | [Link](https://arxiv.org/pdf/2308.05342.pdf) |
+| Aug 7-Aug 13  | TRUSTWORTHY LLMS: A SURVEY AND GUIDELINE FOR EVALUATING LARGE LANGUAGE MODELS’ ALIGNMENT | [Link](https://arxiv.org/pdf/2308.05374.pdf) |
+| Aug 7-Aug 13  | A Comparative Study of Code Generation using ChatGPT 3.5 across 10 Programming Languages | [Link](https://arxiv.org/pdf/2308.04477.pdf) |
+| Aug 7-Aug 13  | VulLibGen: Identifying Vulnerable Third-Party Libraries via Generative Pre-Trained Model | [Link](https://arxiv.org/pdf/2308.04662.pdf) |
+| Aug 7-Aug 13  | ADMUS: A Progressive Question Answering Framework Adaptable to Multiple Knowledge Sources | [Link](https://arxiv.org/pdf/2308.04800.pdf) |
+| Aug 7-Aug 13  | LLaMA-E: Empowering E-commerce Authoring with Multi-Aspect Instruction Following | [Link](https://arxiv.org/pdf/2308.04913.pdf) |
+| Aug 7-Aug 13  | SimplyRetrieve: A Private and Lightweight Retrieval-Centric Generative AI Tool | [Link](https://arxiv.org/pdf/2308.03983.pdf) |
+| Aug 14-Aug 20 | A Survey on Model Compression for Large Language Models | [Link](https://arxiv.org/pdf/2308.07633.pdf) |
+| Aug 14-Aug 20 | Large Language Models for Information Retrieval: A Survey | [Link](https://arxiv.org/pdf/2308.07107.pdf) |
+| Aug 14-Aug 20 | EcomGPT: Instruction-tuning Large Language Model with Chain-of-Task Tasks for E-commerce | [Link](https://arxiv.org/pdf/2308.06966.pdf) |
+| Aug 14-Aug 20 | Large Language Models for Telecom: Forthcoming Impact on the Industry | [Link](https://arxiv.org/pdf/2308.06013.pdf) |
+| Aug 14-Aug 20 | Time Travel in LLMs: Tracing Data Contamination in Large Language Models | [Link](https://arxiv.org/pdf/2308.08493.pdf) |
+| Aug 14-Aug 20 | Through the Lens of Core Competency: Survey on Evaluation of Large Language Models | [Link](https://arxiv.org/pdf/2308.07902.pdf) |
+| Aug 14-Aug 20 | SOLVING CHALLENGING MATH WORD PROBLEMS USING GPT-4 CODE INTERPRETER WITH CODE-BASED SELF-VERIFICATION | [Link](https://arxiv.org/pdf/2308.07921.pdf) |
+| Aug 14-Aug 20 | Robustness Over Time: Understanding Adversarial Examples’ Effectiveness on Longitudinal Versions of Large Language Models | [Link](https://arxiv.org/pdf/2308.07847.pdf) |
