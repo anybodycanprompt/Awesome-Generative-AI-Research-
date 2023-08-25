@@ -52,7 +52,7 @@
 | July 17-July 23| TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT | [Link](https://arxiv.org/pdf/2307.08674.pdf) |
 | July 17-July 23| A Lightweight Framework for High-Quality Code Generation | [Link](https://arxiv.org/pdf/2307.08220.pdf) |
 | July 17-July 23| Software Testing with Large Language Model: Survey, Landscape, and Vision | [Link](https://arxiv.org/pdf/2307.07221.pdf) |
-| July 17-July 23| Privacy Meter | [Link](https://github.com/privacytrustlab/ml...) |
+| July 17-July 23| Privacy Meter | [Link](https://github.com/privacytrustlab/ml_privacy_meter) |
 | July 24-July 30| Aligning Large Language Models with Human: A Survey | [Link](https://arxiv.org/pdf/2307.12966.pdf) |
 | July 24-July 30| FACTOOL: Factuality Detection in Generative AI A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios | [Link](https://arxiv.org/pdf/2307.13528.pdf) |
 | July 24-July 30| SentimentGPT: Exploiting GPT for Advanced Sentiment Analysis and its Departure from Current Machine Learning | [Link](https://arxiv.org/pdf/2307.10234.pdf) |
