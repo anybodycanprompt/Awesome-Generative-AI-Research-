@@ -1,6 +1,6 @@
 # Generative-AI-Weekly-Research-Updates
 
-## 📚 Research Papers by ABCP
+## 📚 Top Research Papers by ABCP
 
 | Week  | Name of Paper | Link |
 |-------|--------------|------|
