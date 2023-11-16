@@ -163,3 +163,21 @@
 23-29 Oct | Towards Possibilities & Impossibilities of AI-generated Text Detection: A Survey | [Link](https://arxiv.org/pdf/2310.15264.pdf)
 23-29 Oct | MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models | [Link](https://arxiv.org/pdf/2310.11954.pdf)
 23-29 Oct | INVESTIGATING THE FAIRNESS OF LARGE LANGUAGE MODELS FOR PREDICTIONS ON TABULAR DATA | [Link](https://arxiv.org/pdf/2310.14607.pdf)
+| Oct 23-Oct 29 | CLINFO.AI: AN OPEN-SOURCE RETRIEVAL-AUGMENTED LARGE LANGUAGE MODEL SYSTEM FOR ANSWERING MEDICAL QUESTIONS USING SCIENTIFIC LITERATURE | [Link](https://arxiv.org/pdf/2310.16146.pdf) |
+| Oct 23-Oct 29 | Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as You May Think – Introducing AI Detectability Index | [Link](https://arxiv.org/pdf/2310.05030.pdf) |
+| Oct 30-Nov 5  | A Comprehensive Overview of Large Language Models | [Link](https://arxiv.org/pdf/2307.06435.pdf) |
+| Oct 30-Nov 5  | Evaluating Large Language Models: A Comprehensive Survey | [Link](https://arxiv.org/pdf/2310.19736.pdf) |
+| Oct 30-Nov 5  | YaRN: Efficient Context Window Extension of Large Language Models | [Link](https://arxiv.org/pdf/2309.00071.pdf) |
+| Oct 30-Nov 5  | A Survey of Large Language Models for Autonomous Driving | [Link](https://arxiv.org/pdf/2311.01043.pdf) |
+| Oct 30-Nov 5  | SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models | [Link](https://arxiv.org/pdf/2305.19308.pdf) |
+| Oct 30-Nov 5  | OpenAssistant Conversations - Democratizing Large Language Model Alignment | [Link](https://arxiv.org/pdf/2304.07327.pdf) |
+| Oct 30-Nov 5  | VisPercep: A Vision-Language Approach to Enhance Visual Perception for People with Blindness and Low Vision | [Link](https://arxiv.org/pdf/2310.20225.pdf) |
+| Oct 30-Nov 5  | iTutor: A Generative Tutorial System for Teaching the Elders to Use Smartphone Applications | [Link](https://dl.acm.org/doi/pdf/10.1145/35...) |
+| Nov 6-Nov 12  | A Survey of Large Language Models Attribution | [Link](https://arxiv.org/pdf/2311.03731.pdf) |
+| Nov 6-Nov 12  | Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications | [Link](https://arxiv.org/pdf/2311.05876.pdf) |
+| Nov 6-Nov 12  | A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions | [Link](https://arxiv.org/pdf/2311.05232.pdf) |
+| Nov 6-Nov 12  | Rephrase and Respond: Let Large Language Models Ask Better Questions for Themselves | [Link](https://arxiv.org/pdf/2311.04205.pdf) |
+| Nov 6-Nov 12  | S-LORA: SERVING THOUSANDS OF CONCURRENT LORA ADAPTERS | [Link](https://arxiv.org/pdf/2311.03285v2.pdf) |
+| Nov 6-Nov 12  | LONGQLORA: EFFICIENT AND EFFECTIVE METHOD TO EXTEND CONTEXT LENGTH OF LARGE LANGUAGE MODELS | [Link](https://arxiv.org/pdf/2311.04879.pdf) |
+| Nov 6-Nov 12  | Dissecting the Runtime Performance of the Training, Fine-tuning, and Inference of Large Language Models | [Link](https://arxiv.org/pdf/2311.03687.pdf) |
+| Nov 6-Nov 12  | GPT4All: An Ecosystem of Open Source Compressed Language Models | [Link](https://arxiv.org/pdf/2311.04931.pdf) |
