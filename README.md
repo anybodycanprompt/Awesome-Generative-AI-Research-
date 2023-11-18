@@ -1,4 +1,4 @@
-# Generative-AI-Weekly-Research-Updates
+# Awesome Generative AI Research 
 
 ## 📚 Top Research Papers by ABCP
 
