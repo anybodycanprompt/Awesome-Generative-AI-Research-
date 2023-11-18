@@ -1,4 +1,4 @@
-# Awesome Generative AI Research 
+# A collection of awesome Generative AI Research Papers
 
 ## 📚 Top Research Papers by ABCP
 
