@@ -2,6 +2,52 @@
 
 ## 📚 Top Research Papers by ABCP
 
+## Survey Papers:
+
+### Privacy
+1. **A Survey on Privacy in Large Language Models**: [Link](https://arxiv.org/pdf/2310.10383.pdf)
+
+### Robustness
+1. **Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks**: [Link](https://arxiv.org/pdf/2310.10844.pdf)
+2. **A Survey on Robustness and Safety of 2D and 3D Deep Learning Models Against Adversarial Attacks**: [Link](https://arxiv.org/pdf/2310.00633.pdf)
+
+### Fairness
+1. **A Survey on Fairness in Large Language Models**: [Link](https://arxiv.org/pdf/2308.10149.pdf)
+
+### Transparency
+1. **The Foundation Model Transparency Index**: [Link](https://arxiv.org/pdf/2310.12941.pdf)
+2. **Explainability for Large Language Models: A Survey**: [Link](https://arxiv.org/pdf/2309.01029.pdf)
+
+### Accountability
+1. **Citation: A Key to Building Responsible and Accountable Large Language Models**: [Link](https://arxiv.org/pdf/2307.02185.pdf)
+
+### Soundness
+1. **A Survey on Evaluation of Large Language Models**: [Link](https://arxiv.org/pdf/2307.03109.pdf)
+2. **A Survey of Hallucination in “Large” Foundation Models**: [Link](https://arxiv.org/pdf/2309.05922.pdf)
+3. **A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions**: [Link](https://arxiv.org/pdf/2311.05232.pdf)
+4. **Large Language Model Alignment: A Survey**: [Link](https://arxiv.org/pdf/2309.15025.pdf)
+5. **Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity**: [Link](https://arxiv.org/pdf/2310.07521.pdf)
+6. **Evaluating Large Language Models: A Comprehensive Survey**: [Link](https://arxiv.org/pdf/2310.19736.pdf)
+
+### Industry-Specific Papers
+1. **Large Language Models for Information Retrieval: A Survey**: [Link](https://arxiv.org/pdf/2308.07107.pdf)
+2. **Large Language Models for Telecom: Forthcoming Impact on the Industry**: [Link](https://arxiv.org/pdf/2308.06013.pdf)
+3. **A Survey of Large Language Models for Healthcare**: [Link](https://arxiv.org/pdf/2310.05694.pdf)
+4. **A Survey of Large Language Models for Autonomous Driving**: [Link](https://arxiv.org/pdf/2311.01043.pdf)
+
+### General/Other Relevant Surveys
+1. **A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks**: [Link](https://arxiv.org/pdf/2306.07303.pdf)
+2. **Software Testing with Large Language Model: Survey, Landscape, and Vision**: [Link](https://arxiv.org/pdf/2307.07221.pdf)
+3. **A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**: [Link](https://arxiv.org/pdf/2307.12980.pdf)
+4. **Aligning Large Language Models with Human: A Survey**: [Link](https://arxiv.org/pdf/2307.12966.pdf)
+5. **A Survey on Large Language Model based Autonomous Agents**: [Link](https://arxiv.org/pdf/2308.11432.pdf)
+6. **Through the Lens of Core Competency: Survey on Evaluation of Large Language Models**: [Link](https://arxiv.org/pdf/2308.07902.pdf)
+7. **A Survey on Model Compression for Large Language Models**: [Link](https://arxiv.org/pdf/2308.07633.pdf)
+8. **A Comprehensive Overview of Large Language Models**: [Link](https://arxiv.org/pdf/2307.06435.pdf)
+9. **Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications**: [Link]([https://ar](https://arxiv.org/pdf/2311.05876.pdf)
+
+## All Papers:
+
 | Week  | Name of Paper | Link |
 |-------|--------------|------|
 | June 12-June 18 | The Economic Trade-offs of Large Language Models: A Case Study | [Link]( https://arxiv.org/pdf/2306.07402.pdf) |
