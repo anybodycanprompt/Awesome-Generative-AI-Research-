@@ -2,8 +2,6 @@
 
 ## 📚 Top Research Papers by ABCP
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kq9AY1BBCMs?si=O4Lh8zav-pQyesQp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Survey Papers:
 
 ### Privacy
