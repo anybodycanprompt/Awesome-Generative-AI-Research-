@@ -44,7 +44,7 @@
 6. **Through the Lens of Core Competency: Survey on Evaluation of Large Language Models**: [Link](https://arxiv.org/pdf/2308.07902.pdf)
 7. **A Survey on Model Compression for Large Language Models**: [Link](https://arxiv.org/pdf/2308.07633.pdf)
 8. **A Comprehensive Overview of Large Language Models**: [Link](https://arxiv.org/pdf/2307.06435.pdf)
-9. **Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications**: [Link]([https://ar](https://arxiv.org/pdf/2311.05876.pdf)
+9. **Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications**: [Link](https://arxiv.org/pdf/2311.05876.pdf)
 
 ## All Papers:
 
