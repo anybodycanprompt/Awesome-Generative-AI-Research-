@@ -204,9 +204,7 @@
 | Nov 27-Dec 3 | Navigating Privacy and Copyright Challenges Across the Data Lifecycle of Generative AI | [Link](https://arxiv.org/pdf/2311.18252.pdf) |
 | Nov 27-Dec 3 | Zero-shot Conversational Summarization Evaluations with Small Large Language Models | [Link](https://arxiv.org/pdf/2311.18041.pdf) |
 | Nov 27-Dec 3 | ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up? | [Link](https://arxiv.org/pdf/2311.16989.pdf) |
-| Nov
-
- 27-Dec 3 | Deficiency of Large Language Models in Finance: An Empirical Examination of Hallucination | [Link](https://arxiv.org/pdf/2311.15548.pdf) |
+| Nov 27-Dec 3 | Deficiency of Large Language Models in Finance: An Empirical Examination of Hallucination | [Link](https://arxiv.org/pdf/2311.15548.pdf) |
 | Dec 4-Dec 10 | Efficient Large Language Models: A Survey | [Link](https://arxiv.org/pdf/2312.03863.pdf) |
 | Dec 4-Dec 10 | A Survey on LLM Security and Privacy | [Link](https://arxiv.org/pdf/2312.02003.pdf) |
 | Dec 4-Dec 10 | Llama Guard: LLM-based Input-Output Safeguard | [Link](https://scontent.fdel27-4.fna.fbcdn.n...) |
