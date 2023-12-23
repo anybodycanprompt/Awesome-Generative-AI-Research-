@@ -1,51 +1,5 @@
 # A Collection of Awesome Generative AI Research Papers
 
-## 📚 Top Research Papers by ABCP
-
-## Survey Papers:
-
-### Privacy
-1. **A Survey on Privacy in Large Language Models**: [Link](https://arxiv.org/pdf/2310.10383.pdf)
-
-### Robustness
-1. **Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks**: [Link](https://arxiv.org/pdf/2310.10844.pdf)
-2. **A Survey on Robustness and Safety of 2D and 3D Deep Learning Models Against Adversarial Attacks**: [Link](https://arxiv.org/pdf/2310.00633.pdf)
-
-### Fairness
-1. **A Survey on Fairness in Large Language Models**: [Link](https://arxiv.org/pdf/2308.10149.pdf)
-
-### Transparency
-1. **The Foundation Model Transparency Index**: [Link](https://arxiv.org/pdf/2310.12941.pdf)
-2. **Explainability for Large Language Models: A Survey**: [Link](https://arxiv.org/pdf/2309.01029.pdf)
-
-### Accountability
-1. **Citation: A Key to Building Responsible and Accountable Large Language Models**: [Link](https://arxiv.org/pdf/2307.02185.pdf)
-
-### Soundness
-1. **A Survey on Evaluation of Large Language Models**: [Link](https://arxiv.org/pdf/2307.03109.pdf)
-2. **A Survey of Hallucination in “Large” Foundation Models**: [Link](https://arxiv.org/pdf/2309.05922.pdf)
-3. **A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions**: [Link](https://arxiv.org/pdf/2311.05232.pdf)
-4. **Large Language Model Alignment: A Survey**: [Link](https://arxiv.org/pdf/2309.15025.pdf)
-5. **Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity**: [Link](https://arxiv.org/pdf/2310.07521.pdf)
-6. **Evaluating Large Language Models: A Comprehensive Survey**: [Link](https://arxiv.org/pdf/2310.19736.pdf)
-
-### Industry-Specific Papers
-1. **Large Language Models for Information Retrieval: A Survey**: [Link](https://arxiv.org/pdf/2308.07107.pdf)
-2. **Large Language Models for Telecom: Forthcoming Impact on the Industry**: [Link](https://arxiv.org/pdf/2308.06013.pdf)
-3. **A Survey of Large Language Models for Healthcare**: [Link](https://arxiv.org/pdf/2310.05694.pdf)
-4. **A Survey of Large Language Models for Autonomous Driving**: [Link](https://arxiv.org/pdf/2311.01043.pdf)
-
-### General/Other Relevant Surveys
-1. **A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks**: [Link](https://arxiv.org/pdf/2306.07303.pdf)
-2. **Software Testing with Large Language Model: Survey, Landscape, and Vision**: [Link](https://arxiv.org/pdf/2307.07221.pdf)
-3. **A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**: [Link](https://arxiv.org/pdf/2307.12980.pdf)
-4. **Aligning Large Language Models with Human: A Survey**: [Link](https://arxiv.org/pdf/2307.12966.pdf)
-5. **A Survey on Large Language Model based Autonomous Agents**: [Link](https://arxiv.org/pdf/2308.11432.pdf)
-6. **Through the Lens of Core Competency: Survey on Evaluation of Large Language Models**: [Link](https://arxiv.org/pdf/2308.07902.pdf)
-7. **A Survey on Model Compression for Large Language Models**: [Link](https://arxiv.org/pdf/2308.07633.pdf)
-8. **A Comprehensive Overview of Large Language Models**: [Link](https://arxiv.org/pdf/2307.06435.pdf)
-9. **Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications**: [Link](https://arxiv.org/pdf/2311.05876.pdf)
-
 ## All Papers:
 
 | Week  | Name of Paper | Link |
@@ -227,3 +181,53 @@
 | Nov 6-Nov 12  | LONGQLORA: EFFICIENT AND EFFECTIVE METHOD TO EXTEND CONTEXT LENGTH OF LARGE LANGUAGE MODELS | [Link](https://arxiv.org/pdf/2311.04879.pdf) |
 | Nov 6-Nov 12  | Dissecting the Runtime Performance of the Training, Fine-tuning, and Inference of Large Language Models | [Link](https://arxiv.org/pdf/2311.03687.pdf) |
 | Nov 6-Nov 12  | GPT4All: An Ecosystem of Open Source Compressed Language Models | [Link](https://arxiv.org/pdf/2311.04931.pdf) |
+| Nov 13-Nov 19 | Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output | [Link](https://arxiv.org/pdf/2311.09000.pdf) |
+| Nov 13-Nov 19 | WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models | [Link](https://arxiv.org/pdf/2311.07138.pdf) |
+| Nov 13-Nov 19 | ML-BENCH: LARGE LANGUAGE MODELS LEVERAGE OPEN-SOURCE LIBRARIES FOR MACHINE LEARNING TASKS | [Link](https://arxiv.org/pdf/2311.09835.pdf) |
+| Nov 13-Nov 19 | Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models | [Link](https://arxiv.org/pdf/2304.03738.pdf) |
+| Nov 13-Nov 19 | R-Tuning: Teaching Large Language Models to Refuse Unknown Questions | [Link](https://arxiv.org/pdf/2311.09677.pdf) |
+| Nov 13-Nov 19 | AART: AI-Assisted Red-Teaming with Diverse Data Generation for New LLM-powered Applications | [Link](https://arxiv.org/pdf/2311.08592.pdf) |
+| Nov 13-Nov 19 | SIMPLESAFETYTESTS: a Test Suite for Identifying Critical Safety Risks in Large Language Models | [Link](https://arxiv.org/pdf/2311.08370.pdf) |
+| Nov 13-Nov 19 | Data-centric FinGPT: Democratizing Internet-scale Data for Financial Large Language Models | [Link](https://arxiv.org/pdf/2307.10485.pdf) |
+| Nov 20-Nov 26 | Oasis: Data Curation and Assessment System for Pretraining of Large Language Models | [Link](https://arxiv.org/pdf/2311.12537.pdf) |
+| Nov 20-Nov 26 | Data Contamination Quiz: A Tool to Detect and Estimate Contamination in Large Language Models | [Link](https://arxiv.org/pdf/2311.06233.pdf) |
+| Nov 20-Nov 26 | Prompting Frameworks for Large Language Models: A Survey | [Link](https://arxiv.org/pdf/2311.12785.pdf) |
+| Nov 20-Nov 26 | Multimodal Large Language Models: A Survey | [Link](https://arxiv.org/pdf/2311.13165.pdf) |
+| Nov 20-Nov 26 | Can Large Language Models Understand Content and Propagation for Misinformation Detection: An Empirical Study | [Link](https://arxiv.org/pdf/2311.12699.pdf) |
+| Nov 20-Nov 26 | Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey | [Link](https://arxiv.org/pdf/2311.12351.pdf) |
+| Nov 20-Nov 26 | Exploring Prompting Large Language Models as Explainable Metrics | [Link](https://arxiv.org/pdf/2311.11552.pdf) |
+| Nov 20-Nov 26 | Finding AI-Generated Faces in the Wild | [Link](https://arxiv.org/pdf/2311.08577.pdf) |
+| Nov 27-Dec 3 | TIMEBENCH: A Comprehensive Evaluation of Temporal Reasoning Abilities in Large Language Models | [Link](https://arxiv.org/pdf/2311.17667.pdf) |
+| Nov 27-Dec 3 | ROBBIE: Robust Bias Evaluation of Large Generative Language Models | [Link](https://arxiv.org/pdf/2311.18140.pdf) |
+| Nov 27-Dec 3 | Are Large Language Models Good Fact Checkers: A Preliminary Study | [Link](https://arxiv.org/pdf/2311.17355.pdf) |
+| Nov 27-Dec 3 | Deepfakes, Misinformation, and Disinformation in the Era of Frontier AI, Generative AI, and Large AI Models | [Link](https://arxiv.org/pdf/2311.17394.pdf) |
+| Nov 27-Dec 3 | Navigating Privacy and Copyright Challenges Across the Data Lifecycle of Generative AI | [Link](https://arxiv.org/pdf/2311.18252.pdf) |
+| Nov 27-Dec 3 | Zero-shot Conversational Summarization Evaluations with Small Large Language Models | [Link](https://arxiv.org/pdf/2311.18041.pdf) |
+| Nov 27-Dec 3 | ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up? | [Link](https://arxiv.org/pdf/2311.16989.pdf) |
+| Nov
+
+ 27-Dec 3 | Deficiency of Large Language Models in Finance: An Empirical Examination of Hallucination | [Link](https://arxiv.org/pdf/2311.15548.pdf) |
+| Dec 4-Dec 10 | Efficient Large Language Models: A Survey | [Link](https://arxiv.org/pdf/2312.03863.pdf) |
+| Dec 4-Dec 10 | A Survey on LLM Security and Privacy | [Link](https://arxiv.org/pdf/2312.02003.pdf) |
+| Dec 4-Dec 10 | Llama Guard: LLM-based Input-Output Safeguard | [Link](https://scontent.fdel27-4.fna.fbcdn.n...) |
+| Dec 4-Dec 10 | Data Management For LLMs: A Survey | [Link](https://arxiv.org/pdf/2312.01700.pdf) |
+| Dec 4-Dec 10 | Purple Llama CYBERSECEVAL: Secure Coding Benchmark | [Link](https://scontent.fdel27-4.fna.fbcdn.n...) |
+| Dec 4-Dec 10 | Trends in Integration of Knowledge and LLMs | [Link](https://arxiv.org/pdf/2311.05876.pdf) |
+| Dec 4-Dec 10 | D-Bot: Database Diagnosis System using LLMs | [Link](https://arxiv.org/pdf/2312.01454.pdf) |
+| Dec 4-Dec 10 | DeepInception: Hypnotize LLM to Be Jailbreaker | [Link](https://arxiv.org/pdf/2311.03191.pdf) |
+| Dec 11-Dec 17 | A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges | [Link](https://arxiv.org/pdf/2311.05112.pdf) |
+| Dec 11-Dec 17 | A Survey of Text Watermarking in the Era of Large Language Models | [Link](https://arxiv.org/pdf/2312.07913.pdf) |
+| Dec 11-Dec 17 | GPTBIAS: A Comprehensive Framework for Evaluating Bias in Large Language Models | [Link](https://arxiv.org/pdf/2312.06315.pdf) |
+| Dec 11-Dec 17 | LLMEval: A Preliminary Study on How to Evaluate Large Language Models | [Link](https://arxiv.org/pdf/2312.07398.pdf) |
+| Dec 11-Dec 17 | Recovering from Privacy-Preserving Masking with Large Language Models | [Link](https://arxiv.org/pdf/2309.08628.pdf) |
+| Dec 11-Dec 17 | Navigating the Generative AI Era: Introducing the AI Assessment Scale for Ethical GenAI Assessment | [Link](https://arxiv.org/ftp/arxiv/papers/23...) |
+| Dec 11-Dec 17 | Designing with Language: Wireframing UI Design Intent with Generative Large Language Models | [Link](https://arxiv.org/pdf/2312.07755.pdf) |
+| Dec 11-Dec 17 | Efficiently Programming Large Language Models using SGLang | [Link](https://arxiv.org/pdf/2312.07104.pdf) |
+| Dec 18-Dec 24 | Retrieval-Augmented Generation for Large Language Models: A Survey | [Link](https://arxiv.org/pdf/2312.10997.pdf) |
+| Dec 18-Dec 24 | Benchmarking Large Language Models in Retrieval-Augmented Generation | [Link](https://arxiv.org/pdf/2309.01431.pdf) |
+| Dec 18-Dec 24 | A Comprehensive Survey of Attack Techniques, Implementation, and Mitigation Strategies in Large Language Models | [Link](https://arxiv.org/pdf/2312.10982.pdf) |
+| Dec 18-Dec 24 | Opportunities and Challenges of Applying Large Language Models in Building Energy Efficiency and Decarbonization Studies: An Exploratory Overview | [Link](https://arxiv.org/ftp/arxiv/papers/23...) |
+| Dec 18-Dec 24 | An Open-Source Data Contamination Report for Large Language Models | [Link](https://arxiv.org/pdf/2310.17589.pdf) |
+| Dec 18-Dec 24 | ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing | [Link](https://arxiv.org/pdf/2309.09128.pdf) |
+| Dec 18-Dec 24 | Silent Guardian: Protecting Text from Malicious Exploitation by Large Language Models | [Link](https://arxiv.org/pdf/2312.09669.pdf) |
+| Dec 18-Dec 24 | GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants | [Link](https://arxiv.org/pdf/2309.05138.pdf) |
